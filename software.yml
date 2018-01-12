@@ -1,0 +1,75 @@
+- name: standard
+  tags:
+    - app
+    - dev tool
+    - analysis
+- name: browserify
+  tags:
+    - app
+    - dev tool
+    - packager
+- name: mkdirp
+  tags:
+    - library
+    - server-side
+- name: Atom
+  tags:
+    - app
+    - editor
+- name: Electron
+  tags:
+    - app
+    - runtime
+    - client-side
+- name: Node.js
+  tags:
+    - app
+    - runtime
+    - server
+    - developer
+- name: jQuery
+  tags:
+    - library
+    - client-side
+- name: spdx-license-ids
+  tags:
+    - library
+    - data
+    - client-side
+    - server-side
+- name: npm
+  tags:
+    - app
+    - package manager
+    - generator
+- name: WordPress
+  tags:
+    - app
+    - CMS
+    - server-side
+- name: Dat
+  tags:
+    - app
+    - client-side
+    - server-side
+    - peer-to-peer
+- name: apt
+  tags:
+    - app
+    - package manager
+- name: es2020
+  tags:
+    - plugin
+    - dev tool
+    - analysis
+- name: Babel
+  tags:
+    - app
+    - dev tool
+    - developer
+    - transpiler
+- name: GCC
+  tags:
+    - app
+    - developer
+    - compiler
